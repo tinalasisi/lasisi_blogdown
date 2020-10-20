@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications | Tina Lasisi</title>
+    <link>/publication/</link>
+      <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Tina Lasisi 2020</copyright><lastBuildDate>Mon, 01 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Publications</title>
+      <link>/publication/</link>
+    </image>
+    
+    <item>
+      <title>AAPA Statement on Race and Racism</title>
+      <link>/publication/fuentes-ajpa-2019/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/fuentes-ajpa-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shades of complexity: New perspectives on the evolution and genetic architecture of human skin</title>
+      <link>/publication/quillen-ajpa-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/quillen-ajpa-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Focus on African diversity confirms complexity of skin pigmentation genetics</title>
+      <link>/publication/lasisi-genbiol-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/lasisi-genbiol-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Anthropology of Human Scalp Hair</title>
+      <link>/publication/dadzie-book-dermanth-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/dadzie-book-dermanth-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quantifying variation in human scalp hair fiber shape and pigmentation</title>
+      <link>/publication/lasisi-ajpa-2016/</link>
+      <pubDate>Wed, 09 Mar 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/lasisi-ajpa-2016/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
