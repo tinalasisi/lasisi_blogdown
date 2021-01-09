@@ -1,5 +1,6 @@
 ---
 title: "Phenotyping & evolutionary genomics: what we can learn from studying hair morphology"
+abstract: " "
 author: [admin]
 date: "2021-01-25"
 all_day: no

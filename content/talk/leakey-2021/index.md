@@ -1,7 +1,10 @@
 ---
 abstract: " "
-all_day: false
-authors: [admin]
+author: [admin]
+date: "2021-01-12"
+all_day: no
+authors:
+  - admin
 date: "2021-01-12T20:15:00Z"
 date_end: "2021-01-12T21:00:00Z"
 event: The Leakey Foundation's Young Professionals Group
