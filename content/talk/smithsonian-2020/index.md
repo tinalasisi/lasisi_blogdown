@@ -18,7 +18,6 @@ links:
 location: Smithsonian National Museum of Natural History
 math: true
 projects:
-publishDate: "2020-10-11T12:00:00Z"
 slides: 
 summary: 
 tags: []
@@ -27,6 +26,7 @@ url_code: ""
 url_pdf: ""
 url_slides: ""
 url_video: ""
+
 ---
 
 Tina Lasisi is a biological anthropologist and PhD Candidate at Penn State University. Her research helps us better understand human diversity and answer the question: ‘Why did modern variation in human scalp hair evolve?’

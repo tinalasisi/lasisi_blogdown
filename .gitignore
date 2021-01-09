@@ -1,7 +1,11 @@
 .Rproj.user
+.Rproj.user/
 .Rhistory
 .RData
 .Ruserdata
 Thumbs.db
 public/
+
+**/.DS_Store
+.DS_Store
 
