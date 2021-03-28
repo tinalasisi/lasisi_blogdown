@@ -106,7 +106,7 @@ categories:
   But every time I became aware of what was going on for a split second, I had an excuse. I wasn&#8217;t *really* procrastinating, I was just full of ideas!
 </p>
 
-<figure id="attachment_625" aria-describedby="caption-attachment-625" style="width: 900px" class="wp-caption alignnone"><img class="alignnone size-full wp-image-625" src="https://humanhairdiversity.files.wordpress.com/2016/09/ideaman.png" alt="ideaman" width="900" height="675" /><figcaption id="caption-attachment-625" class="wp-caption-text">From the waitbutwhy.com post on procrastination</figcaption></figure>
+<figure id="attachment_625" aria-describedby="caption-attachment-625" style="width: 100%" class="wp-caption alignnone"><img class="alignnone size-full wp-image-625" src="https://humanhairdiversity.files.wordpress.com/2016/09/ideaman.png" alt="ideaman" width="900" height="675" /><figcaption id="caption-attachment-625" class="wp-caption-text">From the waitbutwhy.com post on procrastination</figcaption></figure>
 
 <p style="text-align:justify;">
   But you can&#8217;t *just* be an ideas person. You&#8217;ve gotta actually <em>do</em> stuff.
@@ -280,7 +280,7 @@ categories:
   But I, being who I am, tried to plan those out more precisely too! Forget the syllabus, make your own!!! I can do all of the things and then more! Do all of these extra things and make a daily plan!!! (Again, sounded much better in my head at the time)
 </p>
 
-<figure id="attachment_660" aria-describedby="caption-attachment-660" style="width: 730px" class="wp-caption alignnone"><img class="alignnone size-full wp-image-660" src="https://humanhairdiversity.files.wordpress.com/2016/09/do-all-the-things1.jpg" alt="do-all-the-things1" width="730" height="548" /><figcaption id="caption-attachment-660" class="wp-caption-text">This meme from hyporboleandahalf.com is always relevant in my life.</figcaption></figure>
+<figure id="attachment_660" aria-describedby="caption-attachment-660" style="width: 100%" class="wp-caption alignnone"><img class="alignnone size-full wp-image-660" src="https://humanhairdiversity.files.wordpress.com/2016/09/do-all-the-things1.jpg" alt="do-all-the-things1" width="730" height="548" /><figcaption id="caption-attachment-660" class="wp-caption-text">This meme from hyporboleandahalf.com is always relevant in my life.</figcaption></figure>
 
 <p style="text-align:justify;">
   Does that mean your only choice is to abandon any attempt to plan or schedule?
@@ -490,6 +490,3 @@ categories:
   P.S. I would really recommend the posts on procrastination on waitbutwhy.com &#8211; they were probably the most helpful thing I found while I was procrastinating by googling &#8220;how to stop procrastinating&#8221; a few years ago. (Here&#8217;s <a href="https://waitbutwhy.com/2013/10/why-procrastinators-procrastinate.html" target="_blank" rel="noopener noreferrer">part 1</a> and <a href="https://waitbutwhy.com/2013/11/how-to-beat-procrastination.html" target="_blank" rel="noopener noreferrer">part 2</a>)
 </p>
 
-<p style="text-align:justify;">
-  [blog_subscription_form]
-</p>

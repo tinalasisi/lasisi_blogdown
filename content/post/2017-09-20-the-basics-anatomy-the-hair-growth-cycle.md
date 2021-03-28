@@ -178,7 +178,7 @@ tags:
 </p>
 
 <p style="text-align:justify;">
-  <img class="alignnone size-full wp-image-129" src="https://humanhairdiversity.files.wordpress.com/2016/09/hair-shaft.png" alt="hair-shaft" width="4741" height="3406" srcset="http://localhost:8888/wp-content/uploads/2016/09/hair-shaft.png 4741w, http://localhost:8888/wp-content/uploads/2016/09/hair-shaft-300x216.png 300w, http://localhost:8888/wp-content/uploads/2016/09/hair-shaft-768x552.png 768w, http://localhost:8888/wp-content/uploads/2016/09/hair-shaft-1024x736.png 1024w, http://localhost:8888/wp-content/uploads/2016/09/hair-shaft-1568x1126.png 1568w" sizes="(max-width: 4741px) 100vw, 4741px" />
+  <img class="alignnone size-full wp-image-129" src="https://humanhairdiversity.files.wordpress.com/2016/09/hair-shaft.png" alt="hair-shaft" width="4741" height="3406" srcset="http://localhost:8888/wp-content/uploads/2016/09/hair-shaft.png 4741w, http://localhost:8888/wp-content/uploads/2016/09/hair-shaft-300x216.png 300w, http://localhost:8888/wp-content/uploads/2016/09/hair-shaft-768x552.png 768w, http://localhost:8888/wp-content/uploads/2016/09/hair-shaft-1024x736.png 1024w, http://localhost:8888/wp-content/uploads/2016/09/hair-shaft-1568x1126.png 1568w" sizes="(max-width: 100%) 100vw, 4741px" />
 </p>
 
 <ul style="text-align:justify;">
@@ -208,7 +208,7 @@ tags:
 </p>
 
 <p style="text-align:justify;">
-  <img class="size-full wp-image-132 aligncenter" src="https://humanhairdiversity.files.wordpress.com/2016/09/hair-follicle.png" alt="hair-follicle" width="4737" height="3403" srcset="http://localhost:8888/wp-content/uploads/2016/09/hair-follicle.png 4737w, http://localhost:8888/wp-content/uploads/2016/09/hair-follicle-300x216.png 300w, http://localhost:8888/wp-content/uploads/2016/09/hair-follicle-768x552.png 768w, http://localhost:8888/wp-content/uploads/2016/09/hair-follicle-1024x736.png 1024w, http://localhost:8888/wp-content/uploads/2016/09/hair-follicle-1568x1126.png 1568w" sizes="(max-width: 4737px) 100vw, 4737px" />
+  <img class="size-full wp-image-132 aligncenter" src="https://humanhairdiversity.files.wordpress.com/2016/09/hair-follicle.png" alt="hair-follicle" width="4737" height="3403" srcset="http://localhost:8888/wp-content/uploads/2016/09/hair-follicle.png 4737w, http://localhost:8888/wp-content/uploads/2016/09/hair-follicle-300x216.png 300w, http://localhost:8888/wp-content/uploads/2016/09/hair-follicle-768x552.png 768w, http://localhost:8888/wp-content/uploads/2016/09/hair-follicle-1024x736.png 1024w, http://localhost:8888/wp-content/uploads/2016/09/hair-follicle-1568x1126.png 1568w" sizes="(max-width: 100%) 100vw, 4737px" />
 </p>
 
 <ul style="text-align:justify;">
@@ -324,9 +324,6 @@ tags:
   Please share them in the comments so I can make sure I give you some answers in future blog posts!
 </p>
 
-<p style="text-align:justify;">
-  [blog_subscription_form]
-</p>
 
 <p style="text-align:justify;">
   <strong>References from the scientific literature:</strong>

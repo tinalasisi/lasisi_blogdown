@@ -24,15 +24,12 @@ February has been a good month.
   
 <a href="https://alexispsullivan.weebly.com/sci-comm-updates-blog/sully-asks-a-scientist-tina-lasisi" target="_blank" rel="noopener noreferrer">I got featured on my friend Alexis&#8217; blog for her</a>: &#8216;Sully Asks A Scientist&#8217; series.
   
-My birthday brought me some major wardrobe upgrades (thanks to my partner&#8217;s great taste):
+My birthday brought me some major wardrobe upgrades:
   
 <figure id="attachment_2344" aria-describedby="caption-attachment-2344" style="width: 315px" class="wp-caption aligncenter"><img class="  wp-image-2344 aligncenter" src="https://humanhairdiversity.files.wordpress.com/2018/02/28275527_10216244255001590_1835455567_o.jpg?w=400" alt="28275527_10216244255001590_1835455567_o" width="315" height="473" /><figcaption id="caption-attachment-2344" class="wp-caption-text">This jacket <3</figcaption></figure>
   
 And, most importantly, I went to see Black Panther. TWICE. And it may have resulted in me acting a little extra since&#8230;
   
-<iframe title="There will be no challenge on my birthday #wakandaforever" width="640" height="360" src="https://www.youtube.com/embed/nUUVmJh1Hjs?feature=oembed" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-  
-&nbsp;
   
 Plenty of people have talked about how amazing this movie is and there&#8217;s a lot of great analysis on the story and aesthetics.
   

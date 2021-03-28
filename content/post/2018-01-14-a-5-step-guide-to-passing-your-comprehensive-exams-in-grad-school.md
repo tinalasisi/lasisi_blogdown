@@ -542,7 +542,7 @@ One of the things I hate most is when I&#8217;m panicking and someone tells me 
   Never just start writing, you need an outline. <a href="https://en.wikipedia.org/wiki/Concept_map" target="_blank" rel="noopener noreferrer">Concept maps</a> may be a good start.
 </p>
 
-<figure id="attachment_2326" aria-describedby="caption-attachment-2326" style="width: 1136px" class="wp-caption aligncenter"><img class=" size-full wp-image-2326 aligncenter" src="https://humanhairdiversity.files.wordpress.com/2018/01/basic-mind-map-structure.png" alt="basic-mind-map-structure" width="1136" height="766" /><figcaption id="caption-attachment-2326" class="wp-caption-text"><a href="https://www.mindmeister.com/blog/mind-maps-essay-writing/" target="_blank" rel="noopener noreferrer">This post</a> has some good tips on how to use these &#8216;mind maps&#8217; for essay writing.</figcaption></figure>
+<figure id="attachment_2326" aria-describedby="caption-attachment-2326" style="width: 100%" class="wp-caption aligncenter"><img class=" size-full wp-image-2326 aligncenter" src="https://humanhairdiversity.files.wordpress.com/2018/01/basic-mind-map-structure.png" alt="basic-mind-map-structure" width="1136" height="766" /><figcaption id="caption-attachment-2326" class="wp-caption-text"><a href="https://www.mindmeister.com/blog/mind-maps-essay-writing/" target="_blank" rel="noopener noreferrer">This post</a> has some good tips on how to use these &#8216;mind maps&#8217; for essay writing.</figcaption></figure>
 
 <p style="text-align:justify;">
   When you write your outline:
@@ -820,7 +820,7 @@ One of the things I hate most is when I&#8217;m panicking and someone tells me 
   </li>
 </ul>
 
-<figure id="attachment_2332" aria-describedby="caption-attachment-2332" style="width: 1113px" class="wp-caption aligncenter"><img class=" size-full wp-image-2332 aligncenter" src="https://humanhairdiversity.files.wordpress.com/2018/01/transitional-phrases.png" alt="transitional phrases" width="1113" height="800" /><figcaption id="caption-attachment-2332" class="wp-caption-text">Just google around for &#8220;transition words/phrases&#8221; and you&#8217;ll come across lists like <a href="http://www.smart-words.org/linking-words/transition-words.html" target="_blank" rel="noopener noreferrer">this one</a>.</figcaption></figure>
+<figure id="attachment_2332" aria-describedby="caption-attachment-2332" style="width: 100%" class="wp-caption aligncenter"><img class=" size-full wp-image-2332 aligncenter" src="https://humanhairdiversity.files.wordpress.com/2018/01/transitional-phrases.png" alt="transitional phrases" width="1113" height="800" /><figcaption id="caption-attachment-2332" class="wp-caption-text">Just google around for &#8220;transition words/phrases&#8221; and you&#8217;ll come across lists like <a href="http://www.smart-words.org/linking-words/transition-words.html" target="_blank" rel="noopener noreferrer">this one</a>.</figcaption></figure>
 
 <h3 style="text-align:justify;">
   Going the extra mile: originality
@@ -992,6 +992,4 @@ One of the things I hate most is when I&#8217;m panicking and someone tells me 
   <img class=" size-full wp-image-2337 aligncenter" src="https://humanhairdiversity.files.wordpress.com/2018/01/giphy7.gif" alt="giphy7" width="480" height="202" />
 </p>
 
-<p style="text-align:justify;">
-  [blog_subscription_form]
-</p>
+

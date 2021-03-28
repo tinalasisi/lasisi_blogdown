@@ -174,7 +174,7 @@ But luckily it all worked out in the end and I had my poster and I was going to 
   Another awesome thing about this conference is that I got to meet with a lot of amazing students who are doing really exciting research.
 </p>
 
-<figure id="attachment_2290" aria-describedby="caption-attachment-2290" style="width: 1334px" class="wp-caption aligncenter"><img class=" wp-image-2290" src="https://humanhairdiversity.files.wordpress.com/2017/11/okonomiyaki.jpeg" alt="Okonomiyaki" width="1334" height="750" /><figcaption id="caption-attachment-2290" class="wp-caption-text">Meeting fellow students over beer and okonomiyaki is definitely a plus for this conference!</figcaption></figure>
+<figure id="attachment_2290" aria-describedby="caption-attachment-2290" style="width: 100%" class="wp-caption aligncenter"><img class=" wp-image-2290" src="https://humanhairdiversity.files.wordpress.com/2017/11/okonomiyaki.jpeg" alt="Okonomiyaki" width="1334" height="750" /><figcaption id="caption-attachment-2290" class="wp-caption-text">Meeting fellow students over beer and okonomiyaki is definitely a plus for this conference!</figcaption></figure>
   
 A really important piece of advice that I&#8217;ve heard is: **don&#8217;t just &#8216;network&#8217; with professors, talk to other students.**
   
@@ -186,9 +186,9 @@ It was my first time in Japan and, given that I have wanted to go there since I 
   
 Let me tell you, I took in as much of Kobe as I possibly could during that week and it was fantastic!
   
-<figure id="attachment_2293" aria-describedby="caption-attachment-2293" style="width: 3024px" class="wp-caption aligncenter"><img class=" wp-image-2293" src="https://humanhairdiversity.files.wordpress.com/2017/11/bubble-tea.jpeg" alt="Bubble tea" width="3024" height="3024" /><figcaption id="caption-attachment-2293" class="wp-caption-text">They had ready-made bubble tea in their convenience stores &#8211; I was in heaven</figcaption></figure>
+<figure id="attachment_2293" aria-describedby="caption-attachment-2293" style="width: 100%" class="wp-caption aligncenter"><img class=" wp-image-2293" src="https://humanhairdiversity.files.wordpress.com/2017/11/bubble-tea.jpeg" alt="Bubble tea" width="3024" height="3024" /><figcaption id="caption-attachment-2293" class="wp-caption-text">They had ready-made bubble tea in their convenience stores &#8211; I was in heaven</figcaption></figure>
   
-<figure id="attachment_2294" aria-describedby="caption-attachment-2294" style="width: 1334px" class="wp-caption aligncenter"><img class=" wp-image-2294" src="https://humanhairdiversity.files.wordpress.com/2017/11/24259400_10155879280472748_867596541_o.jpg" alt="24259400_10155879280472748_867596541_o.jpg" width="1334" height="750" /><figcaption id="caption-attachment-2294" class="wp-caption-text">The city was beautiful.</figcaption></figure>
+<figure id="attachment_2294" aria-describedby="caption-attachment-2294" style="width: 100%" class="wp-caption aligncenter"><img class=" wp-image-2294" src="https://humanhairdiversity.files.wordpress.com/2017/11/24259400_10155879280472748_867596541_o.jpg" alt="24259400_10155879280472748_867596541_o.jpg" width="1334" height="750" /><figcaption id="caption-attachment-2294" class="wp-caption-text">The city was beautiful.</figcaption></figure>
   
 The only glitch in the whole thing was that I struggled with some of the customs a bit more than expected:
 
@@ -214,6 +214,3 @@ The only glitch in the whole thing was that I struggled with some of the customs
   
 But luckily no one seemed to mind, although my attempts to bow clearly made them laugh!
 
-<p style="text-align:justify;">
-  [blog_subscription_form]
-</p>

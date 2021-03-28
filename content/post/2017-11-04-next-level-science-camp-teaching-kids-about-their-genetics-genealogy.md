@@ -75,7 +75,7 @@ Letting these kids know they were scientists was&nbsp;so empowering! I honestly 
   
 &nbsp;
   
-<figure id="attachment_2022" aria-describedby="caption-attachment-2022" style="width: 1014px" class="wp-caption aligncenter"><img class="size-full wp-image-2022 aligncenter" src="https://humanhairdiversity.files.wordpress.com/2017/11/brandon-is-the-bomb.png" alt="Brandon is the bomb" width="1014" height="518" /><figcaption id="caption-attachment-2022" class="wp-caption-text">The camp&#8217;s amazing instructor, <a href="https://twitter.com/bigdata_kane" target="_blank" rel="noopener noreferrer">Brandon Ogbunu</a>, made sure these kids knew _they_ were in charge and could do anything they set their minds to</figcaption></figure>&nbsp;
+<figure id="attachment_2022" aria-describedby="caption-attachment-2022" style="width: 100%" class="wp-caption aligncenter"><img class="size-full wp-image-2022 aligncenter" src="https://humanhairdiversity.files.wordpress.com/2017/11/brandon-is-the-bomb.png" alt="Brandon is the bomb" width="1014" height="518" /><figcaption id="caption-attachment-2022" class="wp-caption-text">The camp&#8217;s amazing instructor, <a href="https://twitter.com/bigdata_kane" target="_blank" rel="noopener noreferrer">Brandon Ogbunu</a>, made sure these kids knew _they_ were in charge and could do anything they set their minds to</figcaption></figure>&nbsp;
   
 **Watching it all come together: _Finding Your Roots &#8211; The Seedlings&nbsp;_**
 
@@ -100,11 +100,4 @@ So, with that, I&#8217;ll leave you to enjoy the episodes:
 <iframe title="Finding Your Roots: The Seedlings - DNA Ancestry (Episode 3)" width="640" height="360" src="https://www.youtube.com/embed/2M7YqYBUHRM?feature=oembed" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   
 &nbsp;
-  
-[blog\_subscription\_form]
-  
-&nbsp;
-  
-&nbsp;
-  
-&nbsp;
+
