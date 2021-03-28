@@ -24,7 +24,7 @@ tags:
   Last week, a research article was published on skin color variation <em>within</em> Africa.
 </p>
 
-<figure id="attachment_1522" aria-describedby="caption-attachment-1522" style="width: 800px" class="wp-caption aligncenter"><img class="alignnone size-full wp-image-1522" src="https://humanhairdiversity.files.wordpress.com/2017/10/crawford-et-al.png" alt="crawford et al" width="800" height="260" /><figcaption id="caption-attachment-1522" class="wp-caption-text">Last week&#8217;s article on African skin color in _Science_</figcaption></figure>
+<figure id="attachment_1522" aria-describedby="caption-attachment-1522" style="width: 800px" class="wp-caption aligncenter"><img class="alignnone size-full wp-image-1522" src="https://humanhairdiversity.files.wordpress.com/2017/10/crawford-et-al.png" alt="crawford et al" width="800%"  /><figcaption id="caption-attachment-1522" class="wp-caption-text">Last week&#8217;s article on African skin color in _Science_</figcaption></figure>
 
 <p style="text-align:justify;">
   <a href="http://science.sciencemag.org/content/early/2017/10/11/science.aan8433" target="_blank" rel="noopener noreferrer">READ IT!</a> It is great, well-written, and has amazing figures! I would actually show you some of those figures if I wasn&#8217;t terrified of publishers coming after me for copyright infringement (look, I&#8217;m trying to finish a Ph.D., here, so I don&#8217;t have time to get sued by journal publishers&#8230;).
@@ -222,7 +222,7 @@ tags:
   This is the reason why Rihanna&#8217;s Fenty Beauty line of foundation has done so well &#8211; Rihanna recognizes the wide range of skin colors that exist, especially on the darker end of the spectrum.
 </p>
 
-<figure id="attachment_1690" aria-describedby="caption-attachment-1690" style="width: 1200px" class="wp-caption aligncenter"><img class="alignnone size-full wp-image-1690" src="https://humanhairdiversity.files.wordpress.com/2017/10/fenty-foundation.jpg" alt="fenty foundation" width="1200" height="1400" /><figcaption id="caption-attachment-1690" class="wp-caption-text">Range of shades available for Rihanna&#8217;s Fenty Beauty</figcaption></figure>
+<figure id="attachment_1690" aria-describedby="caption-attachment-1690" style="width: 100%" class="wp-caption aligncenter"><img class="alignnone size-full wp-image-1690" src="https://humanhairdiversity.files.wordpress.com/2017/10/fenty-foundation.jpg" alt="fenty foundation" width="100%"  /><figcaption id="caption-attachment-1690" class="wp-caption-text">Range of shades available for Rihanna&#8217;s Fenty Beauty</figcaption></figure>
 
 <p style="text-align:justify;">
   This is a contrast with companies that manufacture products for all the shades of light skin that exist, but apparently, believe that dark-skinned people are one uniform shade:
@@ -332,6 +332,3 @@ tags:
   Most of what I&#8217;ve talked about here is the way in which black/African opinions would impact science, but it is important to include other underrepresented perspectives as well. These include (but are not limited to) perspectives from: non-English speakers (there&#8217;s a whole world out there that&#8217;s ignored because people can&#8217;t publish in what happened to become the &#8220;common&#8221; language), non-Western people, people from non-industrialized societies, people who&#8217;ve grown up in poverty, LGBTQ people &#8211; all of these need to have a voice in science if we truly want to strive for excellence and innovation.
 </p>
 
-<p style="text-align:justify;">
-  [blog_subscription_form]
-</p>

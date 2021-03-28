@@ -17,7 +17,7 @@ tags:
   <span style="color:#808080;">Estimated reading time: 7 mins (1295 words)</span>
 </p>
 
-<figure id="attachment_2301" aria-describedby="caption-attachment-2301" style="width: 4592px" class="wp-caption aligncenter"><img class=" size-full wp-image-2301 aligncenter" src="https://humanhairdiversity.files.wordpress.com/2016/09/img_8859.jpg" alt="IMG_8859" width="4592" height="3448" /><figcaption id="caption-attachment-2301" class="wp-caption-text">A micrograph of a light and dark hair shaft crossing each other.</figcaption></figure>
+<figure id="attachment_2301" aria-describedby="caption-attachment-2301" style="width: 100%" class="wp-caption aligncenter"><img class=" size-full wp-image-2301 aligncenter" src="https://humanhairdiversity.files.wordpress.com/2016/09/img_8859.jpg" alt="IMG_8859" width="100%" /><figcaption id="caption-attachment-2301" class="wp-caption-text">A micrograph of a light and dark hair shaft crossing each other.</figcaption></figure>
   
 &nbsp;
   
@@ -127,7 +127,7 @@ If this overview went too fast for you, no worries, we&#8217;re going to break i
   Now, the biological pathway for melanin synthesis is complex (although I have to say, I don&#8217;t think I&#8217;ve ever come across a biological pathway that was not complex). This means that we can ease into that topic in a later blog post! For now, all you need to know is that the melanosomes mature in the melanocytes before being transferred into the keratinocytes of the forming hair shaft.<sup>2</sup>
 </p>
 
-<figure id="attachment_2303" aria-describedby="caption-attachment-2303" style="width: 4592px" class="wp-caption aligncenter"><img class=" size-full wp-image-2303 aligncenter" src="https://humanhairdiversity.files.wordpress.com/2016/09/img_8860.jpg" alt="IMG_8860" width="4592" height="3448" /><figcaption id="caption-attachment-2303" class="wp-caption-text">Another micrograph of hairs, just for the hell of it. These are a bit more red in color than the first hairs you saw in this post.</figcaption></figure>
+<figure id="attachment_2303" aria-describedby="caption-attachment-2303" style="width: 100%" class="wp-caption aligncenter"><img class=" size-full wp-image-2303 aligncenter" src="https://humanhairdiversity.files.wordpress.com/2016/09/img_8860.jpg" alt="IMG_8860" width="100%" /><figcaption id="caption-attachment-2303" class="wp-caption-text">Another micrograph of hairs, just for the hell of it. These are a bit more red in color than the first hairs you saw in this post.</figcaption></figure>
   
 &nbsp;
 
@@ -182,7 +182,7 @@ If this overview went too fast for you, no worries, we&#8217;re going to break i
 
 &nbsp;
   
-<figure id="attachment_2305" aria-describedby="caption-attachment-2305" style="width: 4592px" class="wp-caption aligncenter"><img class=" size-full wp-image-2305 aligncenter" src="https://humanhairdiversity.files.wordpress.com/2016/09/img_8873.jpg" alt="IMG_8873" width="4592" height="3448" /><figcaption id="caption-attachment-2305" class="wp-caption-text">In some cases, hair follicles right next to each other can produce very different hair colors.  These hairs all come from the same spot on one person&#8217;s scalp.</figcaption></figure>
+<figure id="attachment_2305" aria-describedby="caption-attachment-2305" style="width: 100%" class="wp-caption aligncenter"><img class=" size-full wp-image-2305 aligncenter" src="https://humanhairdiversity.files.wordpress.com/2016/09/img_8873.jpg" alt="IMG_8873" width="100%"  /><figcaption id="caption-attachment-2305" class="wp-caption-text">In some cases, hair follicles right next to each other can produce very different hair colors.  These hairs all come from the same spot on one person&#8217;s scalp.</figcaption></figure>
   
 &nbsp;
 
@@ -209,8 +209,7 @@ So, next time you get into a debate about the precise cut-off between dark blond
 Although, as someone who feels very strongly about the pronunciation of GIF, I completely understand if hair color is something you want to fight about&#8230;
   
 <img class=" size-full wp-image-2307 aligncenter" src="https://humanhairdiversity.files.wordpress.com/2016/09/twitter.png" alt="twitter" width="785" height="234" />
-  
-[blog\_subscription\_form]
+
   
 &nbsp;
   

@@ -126,7 +126,7 @@ One of the professors I spent the most time with, was the Archaeology professor 
   
 I remember being terrified to meet him when I came to interview at Cambridge, but once I was actually in and after I&#8217;d had a few supervisions with him, that went away.
   
-<figure id="attachment_2410" aria-describedby="caption-attachment-2410" style="width: 1164px" class="wp-caption alignnone"><img class="alignnone size-full wp-image-2410" src="https://humanhairdiversity.files.wordpress.com/2018/08/paul-mellars.jpg" alt="Paul Mellars" width="1164" height="873" /><figcaption id="caption-attachment-2410" class="wp-caption-text">I know y&#8217;all be like &#8220;pics or it didn&#8217;t happen&#8221;, so hereby, pics of me, Paul Mellars and the other lovely anthropology students at Corpus Christi College.</figcaption></figure>
+<figure id="attachment_2410" aria-describedby="caption-attachment-2410" style="width: 100%" class="wp-caption alignnone"><img class="alignnone size-full wp-image-2410" src="https://humanhairdiversity.files.wordpress.com/2018/08/paul-mellars.jpg" alt="Paul Mellars" width="1164" height="873" /><figcaption id="caption-attachment-2410" class="wp-caption-text">I know y&#8217;all be like &#8220;pics or it didn&#8217;t happen&#8221;, so hereby, pics of me, Paul Mellars and the other lovely anthropology students at Corpus Christi College.</figcaption></figure>
   
 &nbsp;
   
@@ -142,7 +142,7 @@ Professor Mellars wasn&#8217;t just any random archaeologist, after all. What he
   
 By studying various stone tool _industries_ across Europe, archaeologists are able to say something about who might have been making them and when certain people came into contact with others or were perhaps replaced.
   
-<figure id="attachment_2411" aria-describedby="caption-attachment-2411" style="width: 1280px" class="wp-caption alignnone"><img class="alignnone size-full wp-image-2411" src="https://humanhairdiversity.files.wordpress.com/2018/08/1280px-mousterian_points_and_scrapers_wellcome_m0015182.jpg" alt="1280px-mousterian_points_and_scrapers_wellcome_m0015182" width="1280" height="920" /><figcaption id="caption-attachment-2411" class="wp-caption-text">What we can learn from stone tools is awesome, but god I hated all my stone tool lectures and reading because looking at variously carved rocks for hours is something I simply don&#8217;t have the attention span for.</figcaption></figure>
+<figure id="attachment_2411" aria-describedby="caption-attachment-2411" style="width: 100%" class="wp-caption alignnone"><img class="alignnone size-full wp-image-2411" src="https://humanhairdiversity.files.wordpress.com/2018/08/1280px-mousterian_points_and_scrapers_wellcome_m0015182.jpg" alt="1280px-mousterian_points_and_scrapers_wellcome_m0015182" width="1280" height="920" /><figcaption id="caption-attachment-2411" class="wp-caption-text">What we can learn from stone tools is awesome, but god I hated all my stone tool lectures and reading because looking at variously carved rocks for hours is something I simply don&#8217;t have the attention span for.</figcaption></figure>
   
 So based on the fossil evidence, the archaeological/stone tool evidence, and the genetic evidence (at the time), it appeared that Neanderthals had simply vanished at some point. Or in any case, at some point, the skeletal morphology and stone tools we associate with Neanderthals was gone, and that time seemed to coincide with what was interpreted as the arrival of &#8220;anatomically modern humans&#8221;.
   
@@ -202,7 +202,7 @@ In fact, people were proposing <a href="https://www.ncbi.nlm.nih.gov/pmc/article
   
 Nowadays, we have commercially available genetic reports like 23andMe that will tell you just how Neanderthal you are. It&#8217;s unbelievable to think that only 5-6 years ago, many researchers would have thought that was plain wrong.
   
-<figure id="attachment_2413" aria-describedby="caption-attachment-2413" style="width: 983px" class="wp-caption alignnone"><img class="alignnone size-full wp-image-2413" src="https://humanhairdiversity.files.wordpress.com/2018/08/neanderthal23andm3.png" alt="neanderthal23andm3" width="983" height="370" /><figcaption id="caption-attachment-2413" class="wp-caption-text">Unfortunately, I&#8217;m pretty low in Neanderthal since I&#8217;m 50% African, but I&#8217;m excited to get my mom&#8217;s results!</figcaption></figure>
+<figure id="attachment_2413" aria-describedby="caption-attachment-2413" style="width: 100%" class="wp-caption alignnone"><img class="alignnone size-full wp-image-2413" src="https://humanhairdiversity.files.wordpress.com/2018/08/neanderthal23andm3.png" alt="neanderthal23andm3" width="983" height="370" /><figcaption id="caption-attachment-2413" class="wp-caption-text">Unfortunately, I&#8217;m pretty low in Neanderthal since I&#8217;m 50% African, but I&#8217;m excited to get my mom&#8217;s results!</figcaption></figure>
   
 &nbsp;
 
@@ -265,15 +265,5 @@ The truth of the matter is that, at the moment, we don&#8217;t know, and that&#8
 We&#8217;re learning about just how messy our history is, and how these neat boundaries we have been trying to draw around groups are making us miss the reality of the complex interactions between people.
   
 And thinking back on just how much has changed over the last decade, I&#8217;m looking forward to the next decade to come &#8211; bring on the discoveries!
-  
-&nbsp;
-  
-&nbsp;
-  
-&nbsp;
-  
-&nbsp;
-  
-&nbsp;
   
 &nbsp;
