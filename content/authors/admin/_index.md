@@ -4,6 +4,9 @@ authors:
 bio: My research interests include human phenotypic variation in hair morphology and skin pigmentation.
 education:
   courses:
+  - course: PhD in Biological Anthropology
+    institution: Pennsylvania State University
+    year: 2021
   - course: MA in Biological Anthropology
     institution: Pennsylvania State University
     year: 2017
@@ -15,10 +18,11 @@ interests:
 - Human evolution
 - Genetic and phenotypic variation
 - Pigmentation and hair morphology
+- Science communication & education
 organizations:
 - name: Department of Anthropology, Pennsylvania State University
   url: "https://anth.la.psu.edu/"
-role: PhD Candidate in Biological Anthropology
+role: Postdoctoral Researcher in Biological Anthropology
 social:
 - icon: envelope
   icon_pack: fas
@@ -37,4 +41,4 @@ title: Tina Lasisi
 
 ---
 
-Tina Lasisi is a PhD candidate in Biological Anthropology. Her interests include human phenotypic and genetic variation, as well as the evolution of pigmentation and scalp hair.
+Tina Lasisi is a Postdoctoral Researcher in Biological Anthropology. Her interests include human phenotypic and genetic variation, as well as the evolution of pigmentation and scalp hair.
