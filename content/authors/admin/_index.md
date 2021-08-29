@@ -15,8 +15,7 @@ education:
     year: 2014
 email: "tina.lasisi@gmail.com"
 interests:
-- Human evolution
-- Genetic and phenotypic variation
+- Human evolutionary genetics
 - Pigmentation and hair morphology
 - Science communication & education
 organizations:
@@ -41,4 +40,4 @@ title: Tina Lasisi
 
 ---
 
-Tina Lasisi is a Postdoctoral Researcher in Biological Anthropology. Her interests include human phenotypic and genetic variation, as well as the evolution of pigmentation and scalp hair.
+Tina Lasisi is a Postdoctoral Researcher in Biological Anthropology. Her interests include the evolution of human variation in pigmentation and scalp hair, as well as science communication.
