@@ -2,7 +2,7 @@
 title: "Black in Bio Anth Week: Instagram Live"
 abstract: " "
 author: [admin]
-date: "2022-02-21"
+date: "2022-01-21"
 all_day: no
 authors:
   - admin
