@@ -6,8 +6,15 @@ date: "2021-03-21"
 all_day: no
 authors:
   - admin
+  
+# Schedule page publish date (NOT talk date).
+publishDate: '2017-01-01T00:00:00Z'
+
+
 date: "2022-03-21T12:00:00Z"
-date_end: '2022-03-21T13:00:00Z'
+# date_end: '2022-03-21T13:00:00Z'
+
+
 event: 'Department of Anthropology Colloquium'
 event_url: https://anthropology.sas.upenn.edu/about/events/department-anthropology-colloquium-series
 featured: yes
