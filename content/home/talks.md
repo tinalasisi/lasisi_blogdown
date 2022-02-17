@@ -30,8 +30,8 @@ subtitle = ""
     publication_type = ""
     author = ""
     exclude_featured = false
-    exclude_past = false
-    exclude_future = false
+    exclude_past = true
+    exclude_future = no
     
 [design]
   # Toggle between the various page layout types.
