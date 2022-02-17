@@ -35,6 +35,9 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/tinalasisi
+- icon: tiktok
+  icon_pack: fab
+  link: https://www.tiktok.com/@tinalasisi
 superuser: true
 title: Tina Lasisi
 
