@@ -6,7 +6,7 @@ date: "2022-03-22"
 all_day: no
 authors:
   - admin
-date: "2022-03-22T17:00:00Z"
+date: "2022-03-22T17:300:00Z"
 date_end: '2022-03-22T19:00:00Z'
 event: 'CSU Dominguez Hills Anthropology Club'
 event_url:
