@@ -19,9 +19,9 @@ interests:
 - Pigmentation and hair morphology
 - Science communication & education
 organizations:
-- name: Department of Anthropology, Pennsylvania State University
-  url: "https://anth.la.psu.edu/"
-role: Postdoctoral Researcher in Biological Anthropology
+- name: University of Southern California
+  url: "https://www.qcb-dornsife.usc.edu/"
+role: Postdoctoral Researcher in Quantitative & Computational Biology
 social:
 - icon: envelope
   icon_pack: fas
