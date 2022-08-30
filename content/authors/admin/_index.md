@@ -40,4 +40,4 @@ title: Tina Lasisi
 
 ---
 
-Tina Lasisi is a Postdoctoral Researcher in Biological Anthropology. Her interests include the evolution of human variation in pigmentation and scalp hair, as well as science communication.
+Tina Lasisi is a Biological Anthropologist. Her interests include the evolution of human variation in pigmentation and scalp hair, as well as science communication.
